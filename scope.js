@@ -1,21 +1,37 @@
 // var a = "ahmad" // global scope
 // var b = "miftah"
 // var c = "syakir"
-// var d = "mas miftah"
+// var d = "wahai"
 // var saya = "ahmad mifath syakir"
-// var gw = "syakir ramadhan"
+// var gw = "iya"
+// var e = "saya "
+// var o = "suka "
+// var z  = "i love you ❤️?"
 
+// function alert() {
+//     console.log(d)
+// }
+// print(d)
 // function alert() {
 //     console.log(a, b, c)
 // }
 // alert()
 
 // function print(param) {
-//     console.log(param)
+//     console.log(e)
 // }
 // print(c)
 
-// //pembatas//
+
+// function print(param){
+//     console.log(z)
+// }
+
+// function coba(){
+//     console.log(gw)
+// }
+// coba(gw)
+
 
 // function alert() {
 //     console.log(d)
@@ -48,7 +64,6 @@
 //     console.log(gw)
 // }
 
-// //pembatas//
 
 // const hello = new String("hallo")
 // hello.nama = "ngab"
@@ -56,6 +71,11 @@
 //     console.log(this+ " " + this.nama)
 // }
 
+// const fuck = new String("ganteng")
+// hello.nama = "yoi"
+// hello.print = function(){
+//     console.log(this+ "beh" +this.nama + this.name)
+// }
 // const yellow = new String("miftah")
 // yellow.name = " pinter bgt njirr"
 // yellow.print = function() {
@@ -69,55 +89,55 @@
 // cetak5()
 // cetak6()
 
-// //pembatas//
+//pembatas//
 // function tampil(){
 //     form =  prompt("Siapa Nama Antum : ","");
 //     document.write("SUp" +form+ ",guys");
 //     }
 
 //     //pembatas//
-    let a = 2
-    const kuadrat = function(num) {
-        let retult = num * num
-        return result
-    }
-    let resultA = kuadrat(a)
+//     let a = 2
+//     const kuadrat = function(num) {
+//         let retult = num * num
+//         return result
+//     }
+//     let resultA = kuadrat(a)
 
 
-    comsole.log(a)
+//     comsole.log(a)
 
-const a = 'hello'
-const b = 'iya'
-const c = 'iya'
-const d = 'iya'
-const e = 'iya'
-const s = 'iya'
-const r = 'iya'
-console.log('${a}perkenalkan ${b}')
+// const a = 'hello'
+// const b = 'iya'
+// const c = 'iya'
+// const d = 'iya'
+// const e = 'iya'
+// const s = 'iya'
+// const r = 'iya'
+// console.log('${a}perkenalkan ${b}')
 
-console.log(a + '' + b)
-
-//pembatas//
-let a = 1
-let b = 2
-let c = 3
-console.log("Nilai a adalah" +a+ ", Nilai b adalah" +b+ ", Nilai c adalah" + c)
-
-function iniGenap(num){
-    return num %2 == 0
-}
+// console.log(a + '' + b)
 
 //pembatas//
-function hasil(num){
-    const benar = iniGenap(num)
-    if(benar){
-        console.log('${num} adalah genap')
-    }else{
-        console.log('{num} adalah ganjil')
-    }
-}
+// let a = 1
+// let b = 2
+// let c = 3
+// console.log("Nilai a adalah" +a+ ", Nilai b adalah" +b+ ", Nilai c adalah" + c)
 
-hasil(7, Genap)
+// function iniGenap(num){
+//     return num %2 == 0
+// }
+
+// //pembatas//
+// function hasil(num){
+//     const benar = iniGenap(num)
+//     if(benar){
+//         console.log('${num} adalah genap')
+//     }else{
+//         console.log('{num} adalah ganjil')
+//     }
+// }
+
+// hasil(7, Genap)
 
 //pembatas//
 // function genap(num1) {

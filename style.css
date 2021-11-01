@@ -15,3 +15,9 @@ nav ul li{
     z-index: 1;
     border: 2px solid #364F6B;
 }
+
+
+.nav_bar {
+    width: 100px;
+    text-align: center;
+}
